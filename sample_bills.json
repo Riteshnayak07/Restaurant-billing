@@ -1,0 +1,44 @@
+[
+    {
+        "order_id": 1,
+        "type": "Dine-in",
+        "items": [
+            "Masala Dosa x2",
+            "Paneer Butter Masala x1",
+            "Pepsi x2"
+        ],
+        "total": 360
+    },
+    {
+        "order_id": 2,
+        "type": "Takeaway",
+        "items": [
+            "Chicken Biryani x1"
+        ],
+        "total": 180
+    },
+    {
+        "order_id": 3,
+        "type": "Dine-in",
+        "items": [
+            "Paneer Butter Masala x1",
+            "Gulab Jamun x2"
+        ],
+        "total": 270
+    },
+    {
+        "order_id": 4,
+        "type": "Takeaway",
+        "items": [
+            "Masala Dosa x1",
+            "Gulab Jamun x1"
+        ],
+        "total": 100
+    },
+    {
+        "order_id": 5,
+        "type": "Dine-in",
+        "items": [],
+        "total": 0
+    }
+]
