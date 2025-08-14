@@ -9,3 +9,4 @@ def calculate_totals(items, menu_lookup, discount=0):
             gst_total += (price * gst / 100) * qty
     total = subtotal + gst_total - discount
     return round(subtotal, 2), round(gst_total, 2), round(total, 2)
+    
