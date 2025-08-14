@@ -1,4 +1,3 @@
-
 # Restaurant Billing Software (Python + Tkinter + SQLite)
 
 A desktop-based restaurant billing system with support for dine-in and takeaway, GST, discounts, multiple payment options, and data export.
