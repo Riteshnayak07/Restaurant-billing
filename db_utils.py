@@ -59,7 +59,7 @@ def load_menu_from_csv(csv_path="data/menu.csv"):
     
     # Clear existing menu data
     cursor.execute("DELETE FROM menu")
-    
+
     # Read CSV and insert data
     with open(csv_path, 'r') as file:
         csv_reader = csv.reader(file)
